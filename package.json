@@ -8,5 +8,18 @@
     "start": "node server.js"
   },
   "author": "emp17",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.0.33",
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emp17/nodecellar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emp17/nodecellar/issues"
+  },
+  "homepage": "https://github.com/emp17/nodecellar#readme"
 }
