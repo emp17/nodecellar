@@ -1,0 +1,12 @@
+{
+  "name": "nodecellar",
+  "version": "1.0.0",
+  "description": "wine cellar app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "emp17",
+  "license": "ISC"
+}
